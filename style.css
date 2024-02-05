@@ -1,0 +1,18 @@
+html {
+    background: #f8dbacb5;
+}
+h1{
+    color: rgb(90, 9, 9);
+}
+body{
+    margin: 80px; 
+    padding: auto;
+    font-family: cursive;
+}
+td{
+    letter-spacing: 2px;
+}
+tbody {
+    text-align: center;
+    -moz-text-decoration-color: black;
+}
