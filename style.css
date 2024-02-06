@@ -1,3 +1,6 @@
+*{
+    font-family: cursive
+}
 html {
     background: #f8dbacb5;
 }
@@ -7,7 +10,7 @@ h1{
 body{
     margin: 80px; 
     padding: auto;
-    font-family:Architects Daughter;
+    font-family:Cursive;
 }
 td{
     letter-spacing: 2px;
